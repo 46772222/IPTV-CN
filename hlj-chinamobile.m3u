@@ -10,36 +10,50 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226003/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226004/index.m3u8
 #EXTINF:-1,CCTV1 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226001/index.m3u8
-#EXTINF:-1,CCTV3 4M1080
+#EXTINF:-1,CCTV1 720
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
+#EXTINF:-1,CCTV2财经576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1,CCTV3综艺4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1,CCTV4 4M1080
+#EXTINF:-1,CCTV4中文国际4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1,CCTV5 4M1080
+#EXTINF:-1,CCTV4中文国际576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+#EXTINF:-1,CCTV5体育4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1,CCTV5+ 4M1080
+#EXTINF:-1,CCTV5+体育赛事4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1,CCTV6 4M1080
+#EXTINF:-1,CCTV6电影4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1,CCTV7 4M1080
+#EXTINF:-1,CCTV7国防军事4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1,CCTV8 4M1080
+#EXTINF:-1,CCTV8电视剧4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1,CCTV9 4M1080
+#EXTINF:-1,CCTV9纪录4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1,CCTV10 2.5M1080
+#EXTINF:-1,CCTV10科教2.5M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1,CCTV12 2.5M1080
+#EXTINF:-1,CCTV11戏曲720
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1,CCTV12社会与法2.5M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1,CCTV13 4M1080
+#EXTINF:-1,CCTV13新闻4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1,CCTV13 4M1080
+#EXTINF:-1,CCTV13新闻4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1,CCTV14 2.5M1080
+#EXTINF:-1,CCTV14少儿2.5M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1,CCTV16 4M1080
+#EXTINF:-1,CCTV15音乐720
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1,CCTV16奥林匹克4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1,CCTV17 4M1080
+#EXTINF:-1,CCTV17农业农村4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1,CGTN 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1,CGTN纪录 576
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1,东南卫视 8M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1,东方卫视 4M1080
@@ -78,6 +92,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1,浙江卫视 8M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1,厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
 #EXTINF:-1,海南卫视 8M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1,深圳卫视 4M1080
@@ -208,24 +224,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226065/index.m3u8
 #EXTINF:-1,湖南快乐购 4M1080
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226094/index.m3u8
-#EXTINF:-1,CCTV1 720
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:-1,CCTV2 576
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1,CCTV4 576
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1,CCTV11 720
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1,CCTV15 720
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1,CGTN 576
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1,CGTN纪录 576
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1,中国教育1 576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1,中国教育2 4M576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1,中国教育3
+http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 #EXTINF:-1,中国教育4 4M576
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1,东南卫视 720
